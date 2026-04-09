@@ -18,7 +18,7 @@
 - Marcin Grzejszczak
 - Sławek Sobótka
 - Tomasz Nurkiewicz
-###  Carrier - software engineer
+###  Career - software engineer
 - [Jinkubator #34 - Od zera do kodera - warsztat developera - Piotr Guzik](https://youtu.be/_H0h4QXjAOw)
 - [WJUG #184 - Peer-2-Peer Salary Review - Jakub Nabrdalik](https://youtu.be/odrean5ShZQ)
 - [2018 - Mateusz Parada - Kariera sfrustrowanego developera](https://youtu.be/Jeg1gkaZERU)
